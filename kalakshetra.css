@@ -1,0 +1,93 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #eeeeee;
+  color: #333333;
+  margin: 20px;
+}
+.pass{
+  width: 400px;
+  background-color: white;
+  border: 4px solid rgb(44, 62, 80);
+  margin-top: 0 auto;
+}
+.pass-header{
+  background-color: rgb(44, 62, 80);
+  padding: 20px;
+}
+.pass-type{
+  font-size: 14px;
+  font-weight: bold;
+  color: rgb(230, 126, 34);
+}
+h1{
+  color: white;
+  font-size: 36px;
+  text-decoration: underline white;
+  margin-top: 8px;
+}
+.tagline{
+  font-size: 16px;
+  color: rgb(214, 228, 240);
+  margin-top: 8px;
+}
+.pass-body{
+  padding: 20px;
+}
+h2{
+  font-size: 22px;
+  padding-bottom: 12px;
+  color: rgb(44, 62, 80);
+}
+.card{
+  width: 320px;
+  margin-bottom: 16px;
+  padding: 14px;
+  border: 2px solid lightgray;
+  background-color: #f7f7f7;
+  margin-left: auto;
+  margin-right: auto;
+}
+.event-name{
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(44, 62, 80);
+}
+.event-info{
+  font-size: 14px;
+  color: gray;
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
+.event-price{
+  font-size: 16px;
+  font-weight: 600;
+  color: rgb(44, 62, 80);
+  margin-bottom: 6px;
+}
+#featured{
+  background-color: #fdf6e3;
+  border: 4px dashed rgb(230, 126, 34);
+}
+.pass-stub{
+  padding: 20px;
+  border-top: 3px dashed gray;
+  background-color: #fdf6e3;
+}
+.alert{
+  font-size: 14px;
+  font-weight: bold;
+  color: rgb(230, 126, 34);
+}
+.pass-id{
+  width: 200px;
+  padding: 10px;
+  background-color: white;
+  margin-top: 12px;
+  border: 3px solid rgb(44, 62, 80);
+  font-weight: bold;
+}

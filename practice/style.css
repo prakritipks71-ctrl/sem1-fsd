@@ -1,0 +1,109 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+    background-color:rgb(34, 49, 12);
+}
+.logo{
+    color: white;
+}
+.links{
+    font-size: 8px;
+}
+a{
+    /* margin-right: 25px; */
+    text-decoration: none;
+    color: white;
+}
+.cart{
+    background-color:#e5a95a;
+    border-radius: 7px;
+    font-size: 10px;
+    height: 18px;
+    width: 52px;
+}
+.hero{
+    position: relative;
+    height: 400px;
+    background-image: url("https://www.aludecor.com/_next/image?url=https://d1dy1436v95960.cloudfront.net/wp-content/uploads/2025/08/Toledo.jpg&w=828&q=75");
+    background-size:cover;
+    background-position: center;
+    color: white;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.overlay{
+    width: 100%;
+    height: 100%; 
+    background-color: rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+} 
+.des{
+   text-align: center;
+}
+.shop{
+    background-color: #e5a95a;
+    border-radius: 20px;
+    width: 180px;
+    height: 30px;
+}
+.part-1{
+    height: 500px;
+    background-color: floralwhite;
+    text-align: center;
+
+}
+.item-1{
+    color:goldenrod;
+}
+.products{
+   display: flex;
+   
+   justify-content: center;
+}
+.card{
+    background-color: white;
+    border: 1px solid;
+    height: 210px;
+    width: 190px;
+    margin-left: 15px;
+}
+.white{
+    height: 100px;
+    background-color: white;
+
+}
+
+.footer{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color:rgb(34, 49, 12);
+    color: white;
+    font-size: 10px;
+
+}
+
+.pik{
+    display: flex;
+    gap: 10px;
+}
+
+/* 
+em - font size property refers to parent font size
+   -  other properties refer to current font size */

@@ -1,0 +1,21 @@
+#item-1{
+    color:blueviolet;
+    text-decoration: wavy underline aqua;
+    font-size:40px;
+    font-family: "joker";
+}
+
+h1{
+    background-color:aquamarine ;
+    width:200px;
+    color:darkblue;
+    text-decoration: dotted underline mediumvioletred;
+    font-family:"Brush Script Mt",cursive;    
+}
+#item-2{
+    background-color:plum;
+    width:fit-content;
+    color:;
+    font-family:"chiller";
+    font-size:100px;
+}

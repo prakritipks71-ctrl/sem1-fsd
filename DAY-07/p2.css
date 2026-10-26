@@ -1,0 +1,22 @@
+#item-1{
+    background-color:blueviolet;
+    height: 100px;
+    width: 100px;
+    padding: 10px 20px 30px 40px;
+
+    border-width: 10px;
+    border-color:chartreuse;
+    border-style: solid;
+    
+}
+#item-2{
+    background-color:deeppink;
+    height: 100px;
+    width: 100px;
+    padding: 25px 50px 75px 100px;
+
+    border-width: 10px;
+    border-color:chartreuse;
+    border-style: solid;
+    
+} 

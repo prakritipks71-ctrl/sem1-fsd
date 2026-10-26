@@ -1,0 +1,11 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.item-1{
+    height: 100vh;
+    width: 100vw;
+    padding: 40px;
+    background-color: orange;
+}

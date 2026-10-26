@@ -1,0 +1,17 @@
+body{
+    background-color:blanchedalmond;
+}
+h1{
+    background-color:aquamarine;
+    color:darkmagenta;
+    width: 290px;
+    padding: 10px;
+    box-sizing:content-box;
+}
+p{
+    background-color:aquamarine;
+    color:darkmagenta;
+    width: 290px;
+    padding: 10px;
+    box-sizing: border-box;
+}
